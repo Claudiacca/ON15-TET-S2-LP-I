@@ -1,0 +1,12 @@
+Fase 8
+1. Quando executar
+2. Vire a esquerda
+3. Repita 3 vezes faça: avance
+4. Vire a direita
+5. Avance
+6. Vire a esquerda
+7. Avance
+8. Vire a direita
+9. Avance
+10. Vire a esquerda 
+11. Repita 2 vezes faça: avance
